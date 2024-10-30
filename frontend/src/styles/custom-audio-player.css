@@ -1,0 +1,20 @@
+.rhap_container {
+    background-color: #27272a; /* Change background color */
+    color: #ffffff;
+}
+
+.rhap_play-button {
+    color: #10b981; /* Customize the play button */
+}
+
+.rhap_progress-filled {
+    background-color: #10b981; /* Customize the progress bar */
+}
+
+.rhap_progress-indicator {
+    background-color: #1de09f; /* Customize the progress indicator */
+}
+
+.rhap_time, .rhap_volume-button {
+    color: #d1d5db; /* Customize the time and volume icons */
+}
